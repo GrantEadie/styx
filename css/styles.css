@@ -24,3 +24,8 @@
   box-sizing: border-box;
   
 } 
+
+.spacing {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
