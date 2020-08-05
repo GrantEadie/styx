@@ -1,16 +1,26 @@
 .styx1 {
-  float: right;
+  float: left;
   width: 25%;
-  height: 25%;
+  height: 50%;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .styx2 {
   float: left;
   width: 25%;
-  height: 25%;
+  height: 50%;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .sidebar {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 2px;
+  background-color: orange;
   float: left;
-  background-color: blue;
+  box-sizing: border-box;
+  
 } 
