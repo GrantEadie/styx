@@ -29,3 +29,15 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.columns1 {
+  float: left;
+  width: 30%;
+  background-color: magenta;
+}
+
+.columns2 {
+  float: left;
+  width: 30%;
+  background-color: mediumblue;
+}
